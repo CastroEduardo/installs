@@ -10,7 +10,7 @@ sudo apt-get install docker-ce -y
 docker -version
 sudo systemctl start docker
 sudo systemctl enable docker
-sudo systemctl status docker
+#sudo systemctl status docker
 
 #docker compose
 
